@@ -1,0 +1,17 @@
+{
+  "name": "unplugin-starter-core",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "typings": "./dist/index.d.ts"
+}
