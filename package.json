@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "fmt": "prettier -w .",
-    "test": "vitest run",
-    "build": "turbo build"
+    "test": "turbo test",
+    "build": "turbo build",
+    "dev": "turbo dev"
   },
   "keywords": [],
   "author": "",
