@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rollup": "^3.15.0"
+    "rollup": "^3.15.0",
+    "unplugin-starter": "workspace:^1.0.0"
   }
 }

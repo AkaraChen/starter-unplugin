@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "fmt": "prettier -w .",
-    "test": "ava",
+    "test": "vitest run",
     "build": "turbo build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^5.2.0",
+    "@types/node": "^18.13.0",
     "prettier": "^2.8.4",
     "prettier-config-akrc": "^0.0.0",
     "turbo": "^1.7.4",

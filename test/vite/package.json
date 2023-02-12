@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vite": "^4.1.1"
+    "vite": "^4.1.1",
+    "unplugin-starter": "workspace:^1.0.0"
   }
 }

@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esbuild": "^0.17.7"
+    "esbuild": "^0.17.7",
+    "unplugin-starter": "workspace:^1.0.0"
   }
 }

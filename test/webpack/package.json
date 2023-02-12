@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "unplugin-starter": "workspace:^1.0.0",
     "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "@types/webpack": "^5.28.0"
   }
 }
